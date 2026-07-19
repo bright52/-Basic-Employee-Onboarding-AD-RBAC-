@@ -26,6 +26,9 @@
 * Day 5: Documentation and case study packaging
 
 ## Key Accomplishments
-* Built NMG.com domain from scratch
-* I solved a mock ticket where the user was given incorrect access.
+* Built the NMG.com domain from scratch
+* Designed department-based OU structure (Finance, HR, IT, Operations)
+* Implemented RBAC with security groups mapped to each department
+* Provisioned 15 user accounts with consistent naming conventions and attribute standards
+* Diagnosed and resolved a multi-cause access issue (wrong OU + missing group membership)
 * I fully documented my steps end-to-end.
